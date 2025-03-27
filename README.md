@@ -44,3 +44,4 @@
     CCTV-15
     CCTV-16
     CCTV-17
+    CGTN
