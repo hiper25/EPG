@@ -45,3 +45,4 @@
     CCTV-16
     CCTV-17
     CGTN
+    北京卫视
